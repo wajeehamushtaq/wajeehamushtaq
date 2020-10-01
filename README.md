@@ -3,13 +3,13 @@
 <a href="https://twitter.com/mushtaq_wajeeha">
   <img align="left" alt="Wajeeha's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/wajeeha-mushtaq-606a411a8/
+<a href="https://www.linkedin.com/in/wajeeha-mushtaq-606a411a8/">
   <img align="left" alt="Wajeeha's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/wajeehamushtaq">
   <img align="left" alt="Wajeeha's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/wajeeha.mushtaq.9/
+<a href="https://www.facebook.com/wajeeha.mushtaq.9/">
   <img align="left" alt="Wajeeha's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@wajeehamushtaq1">
@@ -21,6 +21,12 @@
 <img align="right" width="500px" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
 <br />
+### 🏆 Accomplishments
+
+- 🎀 [Flutter Developer @FlutterKolkata](https://drive.google.com/file/d/1r43DIl3PrPX2xRrKUNbblfrsjH_s6S3C/view?usp=sharing)
+- 💁‍♀️ [Front end Developer @InternsPakistan](https://drive.google.com/file/d/1MydDqbuirfc01QcvWLS62rak5l0RHSrC/view?usp=sharing) 
+- 😎 [Open Source Leader @CommonPurpose](https://badgr.com/public/assertions/-VVX3aRHTTGteJVnJ-mVUA?identity__email=wajeehamushtaq1%40gmail.com)
+- 💥 [Microsoft Office Specialist @Microsoft](https://drive.google.com/file/d/1ofBPkx9D6yvDb5xaE3m2TxqCSf8sAxHB/view?usp=sharing)
 
 ### WHO AM I! 🤔 &nbsp;
 
@@ -30,7 +36,7 @@ I am a passionate Computer Scientist from University of Engineering and Technolo
 -  I’m looking to collaborate in open source projects✌
 -  2020 Goals: Contribute more to Open Source projects. Yay!
 
-<br /><br /><br />
+<br /><br />
 ## Languages and Tools: &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
