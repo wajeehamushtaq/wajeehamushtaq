@@ -20,7 +20,8 @@
 </a>
 <img align="right" width="500px" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-<br />
+<br /><br />
+
 ### 🏆 Accomplishments
 
 - 🎀 [Flutter Developer @FlutterKolkata](https://drive.google.com/file/d/1r43DIl3PrPX2xRrKUNbblfrsjH_s6S3C/view?usp=sharing)
@@ -35,8 +36,8 @@ I am a passionate Computer Scientist from University of Engineering and Technolo
 -  Learning FLutter along side Cloud Technology and Webdevelopement😴
 -  I’m looking to collaborate in open source projects✌
 -  2020 Goals: Contribute more to Open Source projects. Yay!
+<br />
 
-<br /><br />
 ## Languages and Tools: &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
