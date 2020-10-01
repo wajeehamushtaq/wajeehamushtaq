@@ -1,4 +1,4 @@
-### Hi! [Wajeeha Mushtaq!](https://wajeehamushtaq.netlify.app/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
+### Hi! [Wajeeha Mushtaq](https://wajeehamushtaq.netlify.app/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
 
 <a href="https://twitter.com/mushtaq_wajeeha">
   <img align="left" alt="Wajeeha's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,29 +29,28 @@
 - 😎 [Open Source Leader @CommonPurpose](https://badgr.com/public/assertions/-VVX3aRHTTGteJVnJ-mVUA?identity__email=wajeehamushtaq1%40gmail.com)
 - 💥 [Microsoft Office Specialist @Microsoft](https://drive.google.com/file/d/1ofBPkx9D6yvDb5xaE3m2TxqCSf8sAxHB/view?usp=sharing)
 
-### WHO AM I! 🤔 &nbsp;
+### Who Am I?🙄
 
-I am a passionate Computer Scientist from University of Engineering and Technology, Lahore Pakistan.💚
--  Currently, working on some projects, will notify timely😊
--  Learning FLutter along side Cloud Technology and Webdevelopement😴
--  I’m looking to collaborate in open source projects✌
--  2020 Goals: Contribute more to Open Source projects. Yay!
+- 🤩 Web and Mobile Developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology, Lahore Pakistan.
+- 👊 Full-stack JavaScript Developer working with React.js, Node.js, Express.js, Mongodb and Firebase.
+- 💝 I love cutting edge mobile development technology, Flutter
+- 🚀 I also love to work with APIs.
+
 <br />
 
 ## Languages and Tools: &nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-<br />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>	
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code><br />
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=wajeehamushtaq&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&icon_color=fad000" alt="Wajeeha's GitHub Stats">
