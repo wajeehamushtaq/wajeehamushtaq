@@ -9,8 +9,8 @@
 <a href="https://github.com/wajeehamushtaq">
   <img align="left" alt="Wajeeha's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/kinzakanwal553/">
-  <img align="left" alt="Kinza Kanwal's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/wajeeha.mushtaq.9/
+  <img align="left" alt="Wajeeha's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@wajeehamushtaq1">
   <img align="left" alt="Wajeeha's Medium" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -47,8 +47,8 @@ I am a passionate Computer Scientist from University of Engineering and Technolo
 <br />
 
 <p>
+   <img src="https://github-readme-stats.vercel.app/api?username=wajeehamushtaq&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&icon_color=fad000" alt="Wajeeha's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeehamushtaq&theme=vision-friendly-dark&hide_langs_below=1&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wajeehamushtaq&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&icon_color=fad000" alt="Wajeeha's GitHub Stats">
 </p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github or I'm currently interested in.*
@@ -58,11 +58,8 @@ I am a passionate Computer Scientist from University of Engineering and Technolo
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to reister an application on Azure AD](https://medium.com/@kinzakanwal553/create-an-azure-ad-application-ea50fe2a24bb)
-- [Types of permissions & consents in Azure](https://medium.com/@kinzakanwal553/permissions-and-consents-in-azure-e2bcdf5d6f6f)
+- [How to build a YouTube Clone Application from Scratch using React](https://medium.com/@wajeehamushtaq1/how-to-build-a-youtube-clone-application-from-scratch-using-react-89e904103552)
+- [Welcome to Deno.Land🦕](https://medium.com/@wajeehamushtaq1/welcome-to-deno-land-de1a181933dc)
+- [Leaflet: Best alternative to Google Map](https://medium.com/@wajeehamushtaq1/leaflet-best-alternative-to-google-map-ae2b13cdc5fd)
 
-## I ❤️ Tech & Design
-
-⚡ Fun fact <br>
-“Make it look pretty but train it to kill.” — Allin
  
