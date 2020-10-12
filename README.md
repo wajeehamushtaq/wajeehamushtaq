@@ -54,8 +54,7 @@
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=wajeehamushtaq&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&icon_color=fad000" alt="Wajeeha's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeehamushtaq&theme=vision-friendly-dark&hide_langs_below=1&layout=compact" />
-</p>
+ </p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github or I'm currently interested in.*
 
