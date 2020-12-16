@@ -24,10 +24,9 @@
 
 ### 🏆 Accomplishments
 
-- 🎀 [Flutter Developer @FlutterKolkata](https://drive.google.com/file/d/1r43DIl3PrPX2xRrKUNbblfrsjH_s6S3C/view?usp=sharing)
+- 🎀 [React JS Developer Intern @InternsPakistan](https://drive.google.com/file/d/11TE2NAlnU1JiumgaEApsSV-TXkEnuVO7/view?usp=sharing)
 - 💁‍♀️ [Front end Developer @InternsPakistan](https://drive.google.com/file/d/1MydDqbuirfc01QcvWLS62rak5l0RHSrC/view?usp=sharing) 
-- 😎 [Open Source Leader @CommonPurpose](https://badgr.com/public/assertions/-VVX3aRHTTGteJVnJ-mVUA?identity__email=wajeehamushtaq1%40gmail.com)
-- 💥 [Microsoft Office Specialist @Microsoft](https://drive.google.com/file/d/1ofBPkx9D6yvDb5xaE3m2TxqCSf8sAxHB/view?usp=sharing)
+- 😎 Open Source Controbutor
 
 ### Who Am I?🙄
 
