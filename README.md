@@ -27,7 +27,7 @@
 - 🤩 React JS developer at @iifa teams
 - 🎀 [React JS Developer Intern @InternsPakistan](https://drive.google.com/file/d/11TE2NAlnU1JiumgaEApsSV-TXkEnuVO7/view?usp=sharing)
 - 💁‍♀️ [Front end Developer @InternsPakistan](https://drive.google.com/file/d/1MydDqbuirfc01QcvWLS62rak5l0RHSrC/view?usp=sharing) 
-- 😎 Open Source Controbutor
+- 😎 Open Source Contributor
 
 ### Who Am I?🙄
 
