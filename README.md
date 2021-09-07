@@ -1,5 +1,5 @@
-
-
+<img src="https://github.com/wajeehamushtaq/wajeehamushtaq/blob/master/github.gif" />
+<br />
 <p align="center">
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeehamushtaq&hide=python&layout=compact&theme=jolly" alt="wajeehamushtaq's Github Languages"/>
 <p/>
