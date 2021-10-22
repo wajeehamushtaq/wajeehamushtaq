@@ -18,8 +18,6 @@
     </table>
 <table align="center">
 <td>  
-	
-- 👩‍🎓 Pursuing a bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/).
 
 - 👩‍💻 Software Engineer Intern at [Devsinc](https://www.devsinc.com/)
 
