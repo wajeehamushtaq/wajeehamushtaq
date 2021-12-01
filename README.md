@@ -18,7 +18,11 @@
     </table>
 <table align="center">
 <td>  
-
+	
+- 👩‍🎓 Pursuing a bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
+	
+- 👩‍💻 Software Engineer Intern at [Technosoft Solutions](https://techno-soft.com/)
+	
 - 👩‍💻 Software Engineer Intern at [Devsinc](https://www.devsinc.com/)
 
 - 🤝 Web developer Participant at [GirlScript Summer of Code](https://gssoc.girlscript.tech/)
