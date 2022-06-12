@@ -10,7 +10,7 @@
 </p>
 
   <table align="center">
- <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Connect with me  :</th>
+ <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"/> Connect with me  :</th>
 <td>
 <a href="https://twitter.com/mushtaq_wajeeha" class="pics"><img src="https://user-images.githubusercontent.com/55188521/132303438-915c6bc2-494c-4288-a40f-3459c7ad42f6.jpg" height="47vh">  </a>
    <a href="https://www.linkedin.com/in/wajeeha-mushtaq-606a411a8/" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254880-375d3383-f227-4920-a94b-e567592268f8.png" height="47vh">  </a>
